@@ -11,8 +11,8 @@ import (
 
 	"sort"
 
-	"github.com/rohankarn35/nepse-server/dbmodels"
-	"github.com/rohankarn35/nepse-server/graph/model"
+	"github.com/rohankarn35/nepse-graphql-server/dbmodels"
+	"github.com/rohankarn35/nepse-graphql-server/graph/model"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

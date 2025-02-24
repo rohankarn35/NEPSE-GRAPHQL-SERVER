@@ -12,7 +12,8 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler/transport"
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/joho/godotenv"
-	"github.com/rohankarn35/nepse-server/graph"
+	"github.com/rohankarn35/nepse-graphql-server/graph"
+
 	"github.com/vektah/gqlparser/v2/ast"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
